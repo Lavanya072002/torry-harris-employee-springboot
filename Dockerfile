@@ -1,4 +1,4 @@
-#define a docker container....
+#define a docker container
 
 FROM openjdk-17
 MAINTAINER lavanya.net
